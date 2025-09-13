@@ -1,6 +1,6 @@
 ## Hi, I'm Hazem 👋
 I'm a Faculty of Computers and Artificial Intelligence undergraduate student at Cairo University,<br/>
-Passionate about Front-end Development, Flutter and Cybersecurity.<br/>
+Passionate about Flutter, Front-end Development and Cybersecurity.<br/>
 
 
 # 💻 Tech Stack:
