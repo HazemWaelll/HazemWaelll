@@ -1,20 +1,35 @@
-## Hi, I'm Hazem 👋
-I'm a Faculty of Computers and Artificial Intelligence undergraduate student at Cairo University,<br/>
-Passionate about Flutter and Web Development.<br/>
+<h1 align="center">Hi 👋, I'm Hazem Wael</h1>
+<h3 align="center">A passionate cross-platform mobile app and web technology developer</h3>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="280" alt="coding gif"/>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+---
 
-## ✉️ Connect with Me  
+### 🚀 About Me
 
-<p align="left">
+- 🎓 Faculty of Computers and Artificial Intelligence undergraduate student at Cairo University.
+- 🌱 I’m currently learning **Web Technology** to build beautiful and responsive websites.  
+- ✨ Focused on growth and progress.
+
+---
+
+### 🛠️ Tech Stack:
+
+- 💻 Languages: `C++`, `C`, `Dart`
+- 📱 Frameworks: `Flutter`
+
+---
+
+### 🔗 Connect with me
+<p style="text-align:left">
   <a href="https://www.linkedin.com/in/hazem-wael/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" 
+    height="30" width="30"/>
   </a>
-  <a href="eng.hazemwael@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:eng.hazemwael@gmail.com" target="_blank">
+    <img src="https://freepngimg.com/download/gmail/68277-google-by-inbox-suite-email-gmail.png" 
+    height="30" width="50"/>
   </a>
 </p>
