@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 Faculty of Computers and Artificial Intelligence undergraduate student at Cairo University.
-- 🌱 I’m currently learning **Web Technology** to build beautiful and responsive websites.  
+- 🌱 I’m currently learning **Web Technology, Data Structure and Data Base**. 
 - ✨ Focused on growth and progress.
 
 ---
