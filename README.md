@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 Faculty of Computers and Artificial Intelligence undergraduate student at Cairo University.
-- 🌱 I’m currently learning **Web Technology, Data Structure and Database**. 
+- 🌱 I’m currently learning **Web Technology and Database**. 
 - ✨ Focused on growth and progress.
 
 ---
