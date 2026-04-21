@@ -25,13 +25,4 @@
 ---
 
 ### 🔗 Connect with me
-<p style="text-align:left">
-  <a href="https://www.linkedin.com/in/hazem-wael/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" 
-    height="30" width="30"/>
-  </a>
-  <a href="mailto:eng.hazemwael@gmail.com" target="_blank">
-    <img src="https://freepngimg.com/download/gmail/68277-google-by-inbox-suite-email-gmail.png" 
-    height="30" width="50"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-wael/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.hazemwael@gmail.com)
