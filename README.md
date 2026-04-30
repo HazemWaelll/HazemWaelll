@@ -17,10 +17,10 @@
 
 ### 🛠️ Tech Stack:
 
-- 💻 Languages: `C++`, `C`, `C#`, `Dart`, `JavaScript`, `SQL`
-- 🧱 Frontend: `HTML`, `CSS`
+- 💻 Languages: `C++`, `C`, `Dart`, `SQL`
 - 📱 Frameworks & Tools: `Flutter`
 - 🗄️ Databases: `Microsoft SQL Server`
+- 🧠 Analytical Skills: `Problem Solving`
 
 ---
 
