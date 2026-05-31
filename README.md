@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazem Wael</h1>
-<h3 align="center">A passionate cross-platform mobile app and web technology developer</h3>
+<h3 align="center">I am passionate cross-platform mobile development, and web development </h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="280" alt="coding gif"/>
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Faculty of Computers and Artificial Intelligence undergraduate student at Cairo University.
+- 🎓 I am a second-year student at Faculty of Computers and Artificial Intelligence at Cairo University.
 - 🌱 I’m currently learning **Web Technology and Database**. 
 - ✨ Focused on growth and progress.
 
