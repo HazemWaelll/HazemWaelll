@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack:
 
-- 💻 Languages: `C++`, `C`, `Dart`, `Python`
+- 💻 Languages: `C++`, `Dart`, `Python`
 - 📱 Frameworks: `Flutter`
 - 📚 Data Science Libraries: `NumPy, Matplotlib, Pandas`
 - 🛠️ Tools: `Git, GitHub`
