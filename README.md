@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazem Wael</h1>
-<h3 align="center">I am passionate about cross-platform mobile development, and web development </h3>
+<h3 align="center">I am passionate AI, and Machine Learning</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="280" alt="coding gif"/>
@@ -9,17 +9,20 @@
 
 ### 🚀 About Me
 
-- 🎓 I am a second-year student at Faculty of Computers and Artificial Intelligence at Cairo University.
-- 🌱 I’m currently learning **Web Technology and Database**. 
-- ✨ Focused on growth and progress.
+- 🎓 I am a second-year student at the Faculty of Computers and Artificial Intelligence, Cairo University.
+- 🤖 Passionate about Artificial Intelligence, and Machine Learning.
+- 🌱 Currently learning Python, NumPy, Pandas, Matplotlib, and Machine Learning.
+- 💡 I enjoy building projects that solve real-world problems and help me improve my skills.
+- ✨ Focused on continuous learning and growth.
 
 ---
 
 ### 🛠️ Tech Stack:
 
-- 💻 Languages: `C++`, `C`, `Dart`, `SQL`
-- 📱 Frameworks & Tools: `Flutter`
-- 🗄️ Databases: `Microsoft SQL Server`
+- 💻 Languages: `C++`, `C`, `Dart`, `Python`
+- 📱 Frameworks: `Flutter`
+- 📚 Data Science Libraries: `NumPy, Matplotlib, Pandas`
+- 🛠️ Tools: `Git, GitHub`
 - 🧠 Analytical Skills: `Problem Solving`
 
 ---
