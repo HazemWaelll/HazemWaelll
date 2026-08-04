@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I am a 3rd-year student at the Faculty of Computers and Artificial Intelligence, Cairo University.
+- 🎓 I am a 3rd-year student at Faculty of Computers and Artificial Intelligence, Cairo University.
 - 🤖 Passionate about Artificial Intelligence, and Machine Learning.
 - 🌱 Currently learning Python, NumPy, Pandas, Matplotlib, and Machine Learning.
 - 💡 I enjoy building projects that solve real-world problems and help me improve my skills.
