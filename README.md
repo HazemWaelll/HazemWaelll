@@ -24,6 +24,7 @@
 • NumPy  
 • Matplotlib  
 • Pandas  
+• Scikit-learn  
 
 #### 💻 Programming  
 • Python  
