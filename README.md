@@ -11,7 +11,7 @@
 
 - 🎓 I am a 3rd-year student at Faculty of Computers and Artificial Intelligence, Cairo University.
 - 🤖 Passionate about Artificial Intelligence, and Machine Learning.
-- 🌱 Currently learning Python, NumPy, Pandas, Matplotlib, and Machine Learning.
+- 🌱 Currently learning Machine Learning.
 - 💡 I enjoy building projects that solve real-world problems and help me improve my skills.
 - ✨ Focused on continuous learning and growth.
 
@@ -20,16 +20,15 @@
 ### 🛠️ Tech Stack:
 
 #### 🧠 AI & Machine Learning  
-• Python  
 • NumPy  
-• Matplotlib  
 • Pandas  
+• Matplotlib  
 • Scikit-learn  
 
 #### 💻 Programming  
 • Python  
-• C++  
 • Dart  
+• C++  
 
 #### 🛠️ Frameworks & Tools  
 • Flutter  
