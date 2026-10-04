@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazem Wael</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Computer Science Student</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | AI Student @ FCAI</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="280" alt="coding gif"/>
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I am a 3rd-year student at Faculty of Computers and Artificial Intelligence, Cairo University.
+- 🎓 I am an AI student at Faculty of Computers and Artificial Intelligence, Cairo University.
 - 🤖 Passionate about Artificial Intelligence, and Machine Learning.
 - 🌱 Currently learning Machine Learning.
 - 💡 I enjoy building projects that solve real-world problems and help me improve my skills.
